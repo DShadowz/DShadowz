@@ -1,0 +1,79 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: white;
+        }
+        header {
+            background-color: blue;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: red;
+            color: blue;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: blue;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .peter{
+          color: blue;
+        }
+        body{
+  font-family: Sans-Serif;
+  color: blue;
+  line-height: 26px;
+}
+.container{
+  width: 90%;
+  height: auto;
+  margin: 10px;
+  display: inline-block;
+}
+.purple-color{
+  color: red;
+}
+.content{
+  float: left;
+  width: 50%;
+}
+.image{
+  float: right;
+  width: 50%;
+}
+.btn{
+  color: white;
+  background-color: red;
+  text-decoration: none;
+  padding: 5px 20px;
+  border-radius: 40px;
+}
+.goal-content{
+  float: right;
+  width: 50%;
+}
+.goal-image{
+  float: left;
+  width: 50%;
+}
+.experience{
+    padding: 10px;
+    border-left: 1px solid red;
+}
+.red{
+  color: red;
+}
